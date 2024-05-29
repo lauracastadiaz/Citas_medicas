@@ -6,7 +6,7 @@ $html_tag_data = [
 ];
 $title = 'Detalles del Centro';
 $description = 'Medical Assistant';
-@endphp
+@endphp 
 @extends('layout', ['html_tag_data' => $html_tag_data, 'title' => $title, 'description' => $description])
 
 @section('css')
