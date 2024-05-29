@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@php
+@php 
 $html_tag_data = [
 "override" => '{ "attributes" : { "placement" : "vertical", "layout":"boxed", "color" : "light-green" },
 "storagePrefix" : "starter-project", "showSettings" : true }'
