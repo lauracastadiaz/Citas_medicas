@@ -46,18 +46,6 @@ Igual con el resto de secciones. Estas funcionalidades están disponibles a trav
 - PUT /api/especialidades/{id}: Actualiza la información de una especialidad específica.
 - DELETE /api/especialidades/{id}: Elimina una especialidad específica.
 
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
 ## Construido con 🛠️
 
 * [Laravel](https://laravel.com/docs/8.x/releases) - El framework web usado
