@@ -1,5 +1,7 @@
 # Sistema de Gestión de Citas
 
+url: https://pidecita.eu/
+
 El Sistema de Gestión de Citas Médicas es una aplicación desarrollada con el framework Laravel que permite gestionar la agenda de citas médicas de una manera eficiente. La aplicación está diseñada para que los administradores puedan gestionar médicos, centros de salud, especialidades, horarios de atención y más.
 
 El sistema utiliza una API CRUD para realizar operaciones de creación, eliminación y edición de médicos, garantizando una gestión flexible y adaptativa.
