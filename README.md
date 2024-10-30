@@ -10,9 +10,11 @@ El sistema utiliza una API CRUD para realizar operaciones de creación, eliminac
 # De qué trata 
 
 La aplicación web es un sistema de gestión de citas diseñado para facilitar la organización de centros que trabajan con citas y reservas, como clínicas, centros de salud, consultorías, entre otros. Aquí te detallo su funcionamiento y características clave:
+
 **1. Elección de Suscripción:**
 
 Al acceder a la plataforma, el usuario (en este caso, el administrador del centro) selecciona un plan de suscripción que mejor se adapte a las necesidades de su centro, permitiendo flexibilidad en función de la cantidad de profesionales, pacientes y servicios que desean gestionar.
+
 **2. Registro y Creación del Centro:**
 
 Una vez suscrito, el usuario se registra y configura su centro en la plataforma. Esto incluye personalizar el perfil del centro con información relevante, como la ubicación, horarios de atención, servicios ofrecidos, y políticas de cita.
